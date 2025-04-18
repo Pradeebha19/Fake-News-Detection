@@ -83,13 +83,19 @@ Misclassified examples
 Confusion Matrix
 
 ## 📈 Sample Visuals in Power BI
-📊 Confusion Matrix (Actual vs. Predicted)
 
-📌 Accuracy Card
+The Power BI dashboard was created to visually analyze the performance of a machine learning model trained to classify news articles as Real (1) or Fake (0). This visualization helps stakeholders, non-technical users, or evaluators understand:
 
-🧾 Misclassified Text Table
+How accurate the model is
 
-🧠 Text-based filters and exploration
+The distribution of predictions
+
+Where the model performs well or struggles
+
+Overall trustworthiness of the fake news detection system
+
+
+
 
 ![image](https://github.com/user-attachments/assets/65f175b8-23fa-411a-ba0d-37decd3f04a3)
 
