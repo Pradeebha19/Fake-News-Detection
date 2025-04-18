@@ -56,8 +56,6 @@ Trained and evaluated multiple ML models:
 
 ✅ Multinomial Naive Bayes
 
-✅ Support Vector Machine (SVM)
-
 ✅ Random Forest (with hyperparameter tuning)
 
 Used GridSearchCV for optimal parameter selection.
