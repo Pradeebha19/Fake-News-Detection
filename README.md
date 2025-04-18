@@ -94,6 +94,59 @@ Where the model performs well or struggles
 
 Overall trustworthiness of the fake news detection system
 
+## 📌 Key Dashboard Elements and Their Purpose
+1. 🧾 Prediction Summary Table (Top Left)
+Displays individual predictions (Text, Actual Label, Predicted Label)
+
+Shows how the model classified specific news articles
+
+Currently shows vectorized format — could be improved to show original text for clarity
+
+2. ✅ Accuracy Card (Top Right)
+Clearly shows model accuracy: 0.99 (99%)
+
+This KPI card gives a quick snapshot of how reliable the model is overall
+
+3. ❓ Q&A Section (Top Center)
+Allows users to ask natural-language questions like:
+
+“show accuracy”
+
+“total actual label”
+
+“average predicted label”
+
+Powered by Power BI's built-in AI Q&A engine
+
+4. 📘 Pie Chart – Count by Actual & Predicted Labels (Bottom Left)
+Visualizes the distribution of predictions by category
+
+Helps you see how balanced the dataset is between Real and Fake news
+
+Useful for identifying class imbalance
+
+5. 🔵 Donut Chart – Actual vs Predicted Summary (Bottom Center)
+Compares the total number of actual vs. predicted labels
+
+Confirms if the model is biased towards a certain class
+
+Easy to spot underfitting or overfitting visually
+
+6. 📊 Bar Chart – Confusion Matrix View (Bottom Right)
+Shows a breakdown of how many predictions are:
+
+True Positives (TP)
+
+True Negatives (TN)
+
+False Positives (FP)
+
+False Negatives (FN)
+
+Axis: Actual Label vs. Predicted Label
+
+Lets you visually assess where the model is making mistakes
+
 
 
 
