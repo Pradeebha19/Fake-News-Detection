@@ -90,3 +90,6 @@ Confusion Matrix
 🧾 Misclassified Text Table
 
 🧠 Text-based filters and exploration
+
+![image](https://github.com/user-attachments/assets/65f175b8-23fa-411a-ba0d-37decd3f04a3)
+
